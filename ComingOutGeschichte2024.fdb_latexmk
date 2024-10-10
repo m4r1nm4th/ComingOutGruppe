@@ -1,0 +1,16 @@
+# Fdb version 4
+["xdvipdfmx"] 0 "ComingOutGeschichte2024.xdv" "ComingOutGeschichte2024.pdf" "ComingOutGeschichte2024" 0 -1
+  "ComingOutGeschichte2024.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "ComingOutGeschichte2024.pdf"
+  (rewritten before read)
+["xelatex"] 1728579938.5331 "ComingOutGeschichte2024.md" "ComingOutGeschichte2024.xdv" "ComingOutGeschichte2024" 1728579938.91395 2
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1714953600 40900 887e0dc8cac988a9e9c574af364cf837 ""
+  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1728579556 9452469 d2355e0f3a86ab1199076966dd201247 ""
+  "ComingOutGeschichte2024.aux" 1728579938.52971 32 3985256e7290058c681f74d7a3565a19 "xelatex"
+  "ComingOutGeschichte2024.md" 1728579050.19887 10764 97cbfe092eb4974860d571de1f0cc9ef ""
+  (generated)
+  "ComingOutGeschichte2024.aux"
+  "ComingOutGeschichte2024.log"
+  "ComingOutGeschichte2024.xdv"
+  (rewritten before read)
