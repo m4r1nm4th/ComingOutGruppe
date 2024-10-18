@@ -28,7 +28,7 @@ biographische Zeitachse deines Lebens oder was auch immer für dich passend ist 
 >Beantworte alle Fragen, die du gerne beantworten möchtest. Du kannst für einzelne Antworten auch zusätzlich die
 >Rückseite nutzen
 
-- Wann hast du zum ersten Mal Gefühle für eine Person oder mehrere Personen empfunden, die von den gesellschaftlichen Erwartungen an dich abwichen? 
+- Wann bzwb. hast du zum ersten Mal Gefühle für eine Person oder mehrere Personen empfunden, die von den gesellschaftlichen Erwartungen an dich abwichen? 
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
@@ -36,7 +36,7 @@ biographische Zeitachse deines Lebens oder was auch immer für dich passend ist 
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________ 
-- Welche Assoziationen kommen dir bei den Bezeichnungen lesbisch, schwul, bisexuell oder pansexuell in den Sinn?
+- Welche Assoziationen kommen dir bei den Bezeichnungen lesbisch, schwul, bisexuell, pansexuell, asexuell oder aromantisch in den Sinn?
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
@@ -44,7 +44,7 @@ biographische Zeitachse deines Lebens oder was auch immer für dich passend ist 
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
-- Kennst du Menschen, die offen lesbisch, schwul, bi, pan oder in anderer Weise queer[^3] leben? In welcher Verbindung stehst du zu diesen
+- Kennst du Menschen, die offen lesbisch, schwul, bi, pan, asexuell oder aromantisch oder in anderer Weise queer[^3] leben? In welcher Verbindung stehst du zu diesen
 Personen?
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
@@ -58,17 +58,17 @@ Am heutigen Tag ordne ich meine sexuelle und/oder romantische Orientierung auf d
 | | | | | |
 | --- | --- | --- | --- | ---- |
 | Zum **weiblichen** Geschlecht: | 
-|  | **romantisch** | wenig | _____________________________________________________________ | stark |
-|  | **sexuell** | wenig | _____________________________________________________________ | stark |
+|  | **romantisch** | gar nicht | _____________________________________________________________ | stark |
+|  | **sexuell** | gar nicht | _____________________________________________________________ | stark |
 | Zu **nichtbinären** [^1] Personen: |
-|  | **romantisch** | wenig | _____________________________________________________________ | stark |
-|  | **sexuell** | wenig | _____________________________________________________________ | stark |
+|  | **romantisch** | gar nicht | _____________________________________________________________ | stark |
+|  | **sexuell** | gar nicht | _____________________________________________________________ | stark |
 | Zum **männlichen** Geschlecht: |
-|  | **romantisch** | wenig | ______________________________________________________________| stark |
-|  | **sexuell** | wenig | _____________________________________________________________ | stark |
+|  | **romantisch** | gar nicht | ______________________________________________________________| stark |
+|  | **sexuell** | gar nicht | _____________________________________________________________ | stark |
 
 
-- Gab es bereits Menschen, die deine Gefühle erwidert haben?
+- Gab es bereits Menschen, die deine Gefühle erwidert haben, oder mit denen du dich zu den oben genannten Themen verbunden und oder verstanden gef\"uhlt hast?
 >____________________________________________________________________________________________________________ 
 >____________________________________________________________________________________________________________
 >____________________________________________________________________________________________________________
